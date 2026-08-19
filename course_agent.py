@@ -12,12 +12,12 @@ COURSE_CATALOG = """
 # Sample student profiles (The input)
 STUDENT_PROFILES = [
     {
-        "name": "Amit",
+        "name": "XYZ",
         "background": "Absolute beginner, no coding experience.",
         "goal": "Wants to become a Data Scientist and learn AI modeling."
     },
     {
-        "name": "Priya",
+        "name": "ABC",
         "background": "Knows basic programming logic, runs a small online store.",
         "goal": "Wants to get more customers online and manage customer transaction records."
     }
